@@ -9,6 +9,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.17.1",
+    "missing": "0.0.1",
     "mongoose": "^5.9.13"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
   }
 }
